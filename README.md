@@ -1,2 +1,2 @@
 # PaintBrands
-Fetching posts and members from cpatings brands public pages on vk.com
+Fetching posts and members from coatings brands public pages on vk.com

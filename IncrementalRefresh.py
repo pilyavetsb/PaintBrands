@@ -16,7 +16,6 @@ print(offsets)
 
 version='5.78'
 gr_name = 'kraski_dulux'
-#pers_token = '36a0bb07a18fb16e7dfd893ec19170e602b10899caa561a3297e3f43d7ac26912da5a82ab3596dc3c36e3'
 groups = {'Dulux': 'kraski_dulux', 'Teks': 'tekspaint', 'Pinotex&Hammerite': 'ph_dacha', 'Lacos': 'vincentdecor',
           'Yarkraski': 'yarkraski_ru', 'Parade': 'parade_for_you'}
 resolved_groups = {'Lakra': '41596571', 'Tikkurila': '52213494', 'Teksturol': '41596870'}
